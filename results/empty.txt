@@ -1,0 +1,17 @@
+Fill in the missing numbers.
+1) Count by 2 from 7 to 23
+13 17 23
+2) Count by 1 from 5 to 13
+7 | 8 11
+3) Count by 2 from 1 to 17
+9 | 11 17
+4) Count by 1 from 3 to 11
+4 6 | 7
+5) Count by 4 from 10 to 42
+26 | 30 42
+6) Count by 3 from 7 to 31
+19 28 | 31
+7) Count by 1 from 6 to 14
+8 | 9 13
+8) Count by 5 from 6 to 46
+6 31 46
